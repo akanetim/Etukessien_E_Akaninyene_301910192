@@ -1,7 +1,13 @@
-# Akaninyene Etukessien E — MIT 8103
+# Aster Financial Services Transaction Management
 
-Student ID: 301910192
+Akaninyene Etukessien E · Student ID 301910192
 
-https://grok.com/share/c2hhcmQtMg_ff146b7a-91c8-43b2-b178-9e5919bcc670
+The portfolio uses fictional records for Aster Financial Services Transaction Management.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Etukessien_E_Akaninyene_301910192_FinalSummary.md) · [PDF](Etukessien_E_Akaninyene_301910192_FinalSummary.pdf)
